@@ -1,0 +1,17 @@
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\bin\Debug\Bade Butik Otel Rezervasyon Otomasyonu.exe.config
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\bin\Debug\Bade Butik Otel Rezervasyon Otomasyonu.exe
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\bin\Debug\Bade Butik Otel Rezervasyon Otomasyonu.pdb
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade Butik Otel Rezervasyon Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade_Butik_Otel_Rezervasyon_Otomasyonu.Properties.Resources.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade Butik Otel Rezervasyon Otomasyonu.csproj.GenerateResource.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade Butik Otel Rezervasyon Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade Butik Otel Rezervasyon Otomasyonu.exe
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade Butik Otel Rezervasyon Otomasyonu.pdb
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade_Butik_Otel_Rezervasyon_Otomasyonu.FrmYeniMusteri.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade_Butik_Otel_Rezervasyon_Otomasyonu.FrmAdminGiris.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade_Butik_Otel_Rezervasyon_Otomasyonu.FrmAnaForm.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade_Butik_Otel_Rezervasyon_Otomasyonu.FrmOdalar.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade_Butik_Otel_Rezervasyon_Otomasyonu.FrmMusteriler.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade_Butik_Otel_Rezervasyon_Otomasyonu.Odalar.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade_Butik_Otel_Rezervasyon_Otomasyonu.FrmSifreGuncelle.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Bade Butik Otel Rezervasyon Otomasyonu\Bade Butik Otel Rezervasyon Otomasyonu\obj\Debug\Bade_Butik_Otel_Rezervasyon_Otomasyonu.FrmMesajlar.resources
